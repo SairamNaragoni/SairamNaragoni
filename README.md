@@ -17,10 +17,10 @@
 
 <div>
 <a href="https://github.com/SairamNaragoni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SairamNaragoni&hide=contribs,issues&show_icons=true&theme=ayu-mirage" height="175px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SairamNaragoni&hide=contribs,issues&show_icons=true&theme=ayu-mirage" height="160px"  />
 </a>
 <a href="https://github.com/SairamNaragoni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamNaragoni&layout=compact&theme=ayu-mirage" height="175px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamNaragoni&layout=compact&theme=ayu-mirage" height="160px" />
 </a>
 </div>
 
