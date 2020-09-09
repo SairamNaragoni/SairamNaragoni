@@ -26,8 +26,8 @@
 
 
 <div align="center">  
-  <div>:red_car: <h3>AWS DeepRacer</h3></div>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=27gmmUd-cWI
+  <div align="left"><h3> :red_car: AWS DeepRacer</h3></div>
+  <a align="right" href="http://www.youtube.com/watch?feature=player_embedded&v=27gmmUd-cWI
   " ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" 
   alt="Amazon AWS Deepracer" width="320" height="240" /></a>
 <div>
