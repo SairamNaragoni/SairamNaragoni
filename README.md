@@ -25,12 +25,23 @@
 </div>
 
 
-<div position="absolute">  
+<div position="fixed">  
   <div float="left"><h3> :red_car: AWS DeepRacer</h3></div>
-  <a float="right" href="http://www.youtube.com/watch?feature=player_embedded&v=27gmmUd-cWI
+  <a float="right" position href="http://www.youtube.com/watch?feature=player_embedded&v=27gmmUd-cWI
   " ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" 
   alt="Amazon AWS Deepracer" width="320" height="240" /></a>
 <div>
+  
+<div class="row" style="display:flex">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
 <!--
 
 - 🔭 Exploring ....
