@@ -17,10 +17,10 @@
 
 <div width="100%">
   <a href="https://github.com/SairamNaragoni/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SairamNaragoni&hide=contribs,issues&show_icons=true&theme=ayu-mirage" height="180px" margin="0px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=SairamNaragoni&hide=contribs,issues&show_icons=true&theme=ayu-mirage" height="180px" margin="0px" padding="0px" />
   </a>
   <a href="https://github.com/SairamNaragoni/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamNaragoni&theme=ayu-mirage&hide=css" height="180px" margin="0px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamNaragoni&theme=ayu-mirage&hide=css" height="180px" margin="0px" width="100%" />
   </a>
 </div>
 
