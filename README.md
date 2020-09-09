@@ -15,16 +15,16 @@
   </a>
 </p>
 
-<div align="center">
-<a href="https://github.com/SairamNaragoni/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=SairamNaragoni&hide=contribs,issues&show_icons=true&theme=ayu-mirage" height="180px"  />
-</a>
-<a href="https://github.com/SairamNaragoni/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamNaragoni&theme=ayu-mirage&hide=css" height="180px"/>
-</a>
+<div align="center" width="100%">
+  <a href="https://github.com/SairamNaragoni/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SairamNaragoni&hide=contribs,issues&show_icons=true&theme=ayu-mirage" height="180px" margin="0px"/>
+  </a>
+  <a href="https://github.com/SairamNaragoni/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamNaragoni&theme=ayu-mirage&hide=css" height="180px" margin="0px" width="50%"/>
+  </a>
 </div>
 
-<table border="0" margin="0" width="100%" >
+<table border="0" margin="10px" width="100%" >
   <tr>
     <td width="50%">
       <h3>AWS DeepRacer community racing challenge :red_car: </h3>
