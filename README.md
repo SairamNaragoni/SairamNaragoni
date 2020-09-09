@@ -24,12 +24,12 @@
 </a>
 </div>
 
-<table border="none">
+<table border="1" width="100%">
   <tr>
-    <td>
+    <td width="50%">
       <h3> :red_car: AWS DeepRacer</h3>
     </td>
-    <td><a float="right" position href="http://www.youtube.com/watch?feature=player_embedded&v=27gmmUd-cWI" ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" alt="Amazon AWS Deepracer" width="320" height="240" /></a></td>
+    <td width="50%"><a float="right" position href="http://www.youtube.com/watch?feature=player_embedded&v=27gmmUd-cWI" ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" alt="Amazon AWS Deepracer" width="320" height="240" /></a></td>
   </tr>
 </table>
 
