@@ -24,19 +24,20 @@
 </a>
 </div>
 
-<table border="1" width="100%">
+<table border="0" width="100%">
   <tr>
     <td width="50%">
-      <h3> :red_car: AWS DeepRacer</h3>
+      <h3>AWS DeepRacer community racing challenge :red_car: </h3>
+      <p>Exploring Reinforcement Learning :robot: </p>
+      <p>Evaluation video which secured top position for me and my team <b><i>Pirates</i></b> :point_right:</p>
     </td>
-    <td width="50%"><a float="right" position href="http://www.youtube.com/watch?feature=player_embedded&v=27gmmUd-cWI" ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" alt="Amazon AWS Deepracer" width="320" height="240" /></a></td>
+    <td width="50%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=27gmmUd-cWI" ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
   </tr>
 </table>
 
   
 
 <!--
-
 - 🔭 Exploring ....
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -46,4 +47,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
