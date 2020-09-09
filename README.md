@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
- 🔭 Exploring ...
+ 🔭 Working and Exploring ...
 </h3>
 
 <p align="center">
@@ -17,18 +17,19 @@
 
 <div align="center">
 <a href="https://github.com/SairamNaragoni/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=SairamNaragoni&hide=contribs,issues&show_icons=true&theme=ayu-mirage" height="160px"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SairamNaragoni&hide=contribs,issues&show_icons=true&theme=ayu-mirage" height="180px"  />
 </a>
 <a href="https://github.com/SairamNaragoni/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamNaragoni&theme=ayu-mirage&hide=css" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamNaragoni&theme=ayu-mirage&hide=css" height="180px"/>
 </a>
 </div>
 
-<!---
+
 <div align="center">  
+  <div>:red_car: <h3>AWS DeepRacer</h3></div>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=27gmmUd-cWI
   " ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" 
-  alt="Amazon AWS Deepracer" width="320" height="240" border="10" /></a>
+  alt="Amazon AWS Deepracer" width="320" height="240" /></a>
 <div>
 <!--
 
