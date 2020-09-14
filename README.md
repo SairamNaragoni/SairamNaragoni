@@ -32,7 +32,8 @@
       <p>Evaluation video which secured top position for me and my team <b><i>Pirates</i></b> :point_right:</p>
       <p>Preparing for the Global Challenge in the month of OCT</p>
     </td>
-    <td width="50%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=27gmmUd-cWI" ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
+    <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=27gmmUd-cWI" ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
+    <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&YwxYHAUrKik&t" ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
   </tr>
 </table>
 
