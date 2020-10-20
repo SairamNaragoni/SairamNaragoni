@@ -34,7 +34,7 @@
     </td>
     <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=27gmmUd-cWI" ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
     <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=YwxYHAUrKik" ><img src="http://img.youtube.com/vi/YwxYHAUrKik/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
-  </tr>YwxYHAUrKik&t
+  </tr>
 </table>
 
   
