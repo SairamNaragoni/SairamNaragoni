@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://twitter.com/@sairam_naragoni">
-    <img src="https://img.shields.io/twitter/follow/sairam_naragoni?label=Follow%20Me&style=social" alt="Follow @sairam_naragoni" />
+    <img  src="https://img.shields.io/twitter/follow/sairam_naragoni?label=Follow%20Me&style=social" alt="Follow @sairam_naragoni" />
   </a>
   <a href="https://www.linkedin.com/in/SairamNaragoni">
     <img src="https://img.shields.io/badge/-SairamNaragoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SairamNaragoni" alt="Follow @sairam_naragoni" />
