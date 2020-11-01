@@ -32,8 +32,8 @@
       <p>Evaluation video on re:invent 2018 Track <b><i>Team Pirates</i></b> :point_right:</p>
       <p>Preparing for the Deepracer Final Championship</p>
     </td>
-    <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=4PJu7KbzizY" ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
-    <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=uQs49AEgvEs" ><img src="http://img.youtube.com/vi/YwxYHAUrKik/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
+    <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=4PJu7KbzizY" ><img src="http://img.youtube.com/vi/4PJu7KbzizY/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
+    <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=uQs49AEgvEs" ><img src="http://img.youtube.com/vi/uQs49AEgvEs/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
   </tr>
 </table>
 
