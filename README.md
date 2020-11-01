@@ -29,7 +29,7 @@
     <td width="50%">
       <h3>AWS DeepRacer Final Championship :red_car: </h3>
       <p>Exploring Reinforcement Learning :robot: </p>
-      <p>Evaluation video on re:invent 2018 Track <b><i>Pirates</i></b> :point_right:</p>
+      <p>Evaluation video on re:invent 2018 Track <b><i>Team Pirates</i></b> :point_right:</p>
       <p>Preparing for the Deepracer Final Championship</p>
     </td>
     <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=4PJu7KbzizY" ><img src="http://img.youtube.com/vi/27gmmUd-cWI/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
