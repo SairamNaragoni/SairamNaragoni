@@ -29,11 +29,11 @@
     <td width="50%">
       <h3>AWS DeepRacer :red_car: </h3>
       <p>Exploring Reinforcement Learning :robot: </p>
-      <p>Evaluation video of <b><i>Team Pirates</i></b> :point_right:</p>
-      <p>7th in the World Deepracer Virtual Championship 2020</p>
+      <p>Championship Race : <b><i>JPMC-Rogue-Hyderabad</i></b> :point_right:</p>
+      <p>World AWS Deepracer League Champion 2021</p>
     </td>
-    <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=4PJu7KbzizY" ><img src="http://img.youtube.com/vi/4PJu7KbzizY/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
-    <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=uQs49AEgvEs" ><img src="http://img.youtube.com/vi/uQs49AEgvEs/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
+    <td width="25%"><a position href="https://www.youtube.com/watch?feature=player_embedded&v=ue9aumC7AAk&t=7194s" ><img src="https://img.youtube.com/vi/ue9aumC7AAk/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
+    <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=Dq9konlK4No" ><img src="http://img.youtube.com/vi/Dq9konlK4No/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
   </tr>
 </table>
 
