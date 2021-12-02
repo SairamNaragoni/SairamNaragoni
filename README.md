@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/SairamNaragoni">
     <img src="https://img.shields.io/badge/-SairamNaragoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SairamNaragoni" alt="Follow @sairam_naragoni" />
   </a>
+  <a href="https://naragonisairam.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Follow @sairam_naragoni" />
+  </a>
 </p>
 
 <div align="center">
