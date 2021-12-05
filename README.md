@@ -36,7 +36,7 @@
       <p>World AWS Deepracer League Champion 2021</p>
     </td>
     <td width="25%"><a position href="https://www.youtube.com/watch?feature=player_embedded&v=sS0U3j262Uw" ><img src="https://img.youtube.com/vi/sS0U3j262Uw/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
-    <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=OU_srXEfhyE" ><img src="http://img.youtube.com/vi/OU_srXEfhyE/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
+    <td width="25%"><a position href="http://www.youtube.com/watch?feature=player_embedded&v=Dq9konlK4No" ><img src="http://img.youtube.com/vi/Dq9konlK4No/0.jpg" alt="Amazon AWS Deepracer" /></a></td>
   </tr>
 </table>
 
